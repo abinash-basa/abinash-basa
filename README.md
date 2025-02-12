@@ -14,7 +14,8 @@
 
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abinashbasa04&show_icons=true&theme=dark)  
+![GitHub Stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abinash-basa&show_icons=true&theme=dark)
+)  
 
 ### 📫 Connect with Me  
 [🔗 Blog](https://medium.com/@abinashbasa15) | [🔗X](https://x.com/AbinashBasa1) | [🔗LinkedIn](www.linkedin.com/in/theabinashbasa)  
