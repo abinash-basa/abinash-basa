@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi, I'm Abinash Basa 👋  
 
-<!--
-**abinash-basa/abinash-basa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Tech Enthusiast | AI & Automation | Math Postgrad**  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📌 **Code. Learn. Build. Repeat.**  
+
+### 📌 Projects Coming Soon  
+
+🚀 Currently learning **Python for Data Science, AI/ML**.  
+📊 Exploring **Data Analysis, Visualization, and Machine Learning**.  
+📌 Stay tuned for upcoming projects!  
+
+
+### 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abinashbasa04&show_icons=true&theme=dark)  
+
+### 📫 Connect with Me  
+[🔗 Blog](https://medium.com/@abinashbasa15) | [🔗X](https://x.com/AbinashBasa1) | [🔗LinkedIn](www.linkedin.com/in/theabinashbasa)  
+
+---
+
